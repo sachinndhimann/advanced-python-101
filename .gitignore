@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+chapter15_real_applications/_tasks_store.json
+chapter10_logging/app.log*
+chapter4_generators/*.tmp
